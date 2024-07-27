@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(240, 240, 149);
+}
+.heading{
+    margin-top: 50px;
+    text-align: center;
+    color: rgb(197, 84, 84);
+    font-weight: bolder;
+}
+.box-model{
+    margin: auto;
+    height: 350px;
+    width: 270px;
+    border: 1px solid wheat;
+    background-color: white;
+    padding: 45px;
+    font-weight: 600px;
+}
+.first-img{
+    float: left;
+}
+.second-img{
+ float: right;
+}
+.third-img{
+    float: left;
+    margin-top: 30px;
+}
+.overlay{
+    position: absolute;
+    bottom: 5%;
+    left: 3%;
+    width: 115px;
+    background-color: rgb(197, 84, 84);
+    color: white;
+    border-radius: 0 0 5px 5px;
+    text-align: center;
+    opacity: 0.4;
+
+}
+.fourth-div{
+    float: right;
+}
+.para{
+    text-align: center;
+    background-color: rgb(218, 66, 10);
+    color: white;
+}
